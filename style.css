@@ -1,0 +1,45 @@
+ul li{
+    list-style-type:none;
+    margin-bottom:10px;
+}
+h1{
+    margin-left:33%;
+}
+.form{
+    border:3px solid;
+    width:500px;
+    margin-left:30%;
+}
+.copy{
+    margin-left:40%;
+    margin-top:20px;
+}
+input{
+    margin-left:60px;
+}
+#nama2{
+    margin-left:75px;
+}
+#nama3{
+    margin-left:82px;
+}
+#nama4{
+    margin-left:70px;
+}
+#nama5{
+    margin-left:30px;
+}
+#nama6{
+    margin-left:10px;
+}
+#nama7{
+    margin-left:10px;
+}
+#nama8{
+    margin-left:50px;
+}
+#proses{
+    margin-left:120px;
+    margin-top:20px;
+    
+}
